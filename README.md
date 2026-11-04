@@ -1,7 +1,7 @@
 # I-found-a-secret-...
 ## 💫 About Me:
 
-I'm a Full Stack Developer 👨‍💻  
+I'm a .... 👨‍💻  
 Content Creator ⚡  
 Digital Marketing 📈  
 
